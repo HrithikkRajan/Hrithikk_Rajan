@@ -3,7 +3,7 @@
 This is a **Hotel Management API** designed to manage room bookings efficiently. It contains functions to manage hotel rooms, handle bookings, and to retrieve room and booking details.
 
 ## Table of Contents
-1. [Set-Up Guide](#installation-guide)
+1. [Set-Up Guide](#set-up-guide)
 2. [Data](#data)
 3. [Functions](#functions)
 4. [References](#references)
